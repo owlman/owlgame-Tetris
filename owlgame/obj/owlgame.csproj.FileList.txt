@@ -1,0 +1,8 @@
+bin\Debug\owlgame.exe
+bin\Debug\owlgame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\owlgame.mainForm.resources
+obj\Debug\owlgame.Properties.Resources.resources
+obj\Debug\owlgame.csproj.GenerateResource.Cache
+obj\Debug\owlgame.exe
+obj\Debug\owlgame.pdb
